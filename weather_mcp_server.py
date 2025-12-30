@@ -66,3 +66,5 @@ def get_forecast(location: str, days: int = 5, units: str = "metric") -> str:
 
 if __name__ == "__main__":
     mcp.run()
+
+# this is the end of the file
